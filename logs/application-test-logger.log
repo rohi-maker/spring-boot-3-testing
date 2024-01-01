@@ -1,0 +1,230 @@
+2024-01-01 09:34:49,848 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeRepositoryTests using Java 20.0.1 with PID 14592 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 09:34:49,856 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 09:34:51,154 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 09:34:51,686 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 462 ms. Found 1 JPA repository interface.
+2024-01-01 09:34:52,758 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 09:34:53,113 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-01 09:34:53,195 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-01-01 09:34:54,055 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 09:34:54,151 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-01-01 09:34:54,829 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7d484fcd
+2024-01-01 09:34:54,832 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-01-01 09:34:56,669 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.kaamDekho.entity.EmployeeEntity (class must be instantiated by Interceptor)
+2024-01-01 09:34:56,868 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 09:34:56,982 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:34:57,781 INFO o.s.b.StartupInfoLogger [main] Started EmployeeRepositoryTests in 9.469 seconds (process running for 12.688)
+2024-01-01 09:34:59,013 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:34:59,016 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-01-01 09:34:59,023 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-01-01 09:35:37,236 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeRepositoryTests using Java 20.0.1 with PID 13800 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 09:35:37,242 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 09:35:37,977 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 09:35:38,174 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 186 ms. Found 1 JPA repository interface.
+2024-01-01 09:35:38,657 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 09:35:38,730 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-01 09:35:38,766 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-01-01 09:35:39,134 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 09:35:39,177 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-01-01 09:35:39,471 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@712e787e
+2024-01-01 09:35:39,476 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-01-01 09:35:40,760 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.kaamDekho.entity.EmployeeEntity (class must be instantiated by Interceptor)
+2024-01-01 09:35:40,939 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 09:35:40,992 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:35:41,554 INFO o.s.b.StartupInfoLogger [main] Started EmployeeRepositoryTests in 5.143 seconds (process running for 6.427)
+2024-01-01 09:35:42,428 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:35:42,430 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-01-01 09:35:42,438 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-01-01 09:37:45,247 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeRepositoryTests using Java 20.0.1 with PID 14528 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 09:37:45,255 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 09:37:45,860 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 09:37:46,055 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 182 ms. Found 1 JPA repository interface.
+2024-01-01 09:37:46,556 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 09:37:46,625 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-01 09:37:46,666 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-01-01 09:37:47,052 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 09:37:47,087 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-01-01 09:37:47,417 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@712e787e
+2024-01-01 09:37:47,419 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-01-01 09:37:48,519 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.kaamDekho.entity.EmployeeEntity (class must be instantiated by Interceptor)
+2024-01-01 09:37:48,695 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 09:37:48,742 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:37:49,226 INFO o.s.b.StartupInfoLogger [main] Started EmployeeRepositoryTests in 4.769 seconds (process running for 5.909)
+2024-01-01 09:37:49,925 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:37:49,927 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-01-01 09:37:49,933 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-01-01 09:41:12,890 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeRepositoryTests using Java 20.0.1 with PID 13204 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 09:41:12,895 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 09:41:13,530 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 09:41:13,727 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 186 ms. Found 1 JPA repository interface.
+2024-01-01 09:41:14,184 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 09:41:14,257 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-01 09:41:14,295 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-01-01 09:41:14,661 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 09:41:14,696 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-01-01 09:41:15,081 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3869a6e5
+2024-01-01 09:41:15,087 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-01-01 09:41:16,242 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.kaamDekho.entity.EmployeeEntity (class must be instantiated by Interceptor)
+2024-01-01 09:41:16,419 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 09:41:16,474 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:41:17,008 INFO o.s.b.StartupInfoLogger [main] Started EmployeeRepositoryTests in 4.928 seconds (process running for 6.188)
+2024-01-01 09:41:17,929 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:41:17,933 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-01-01 09:41:17,937 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-01-01 09:44:28,771 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeRepositoryTests using Java 20.0.1 with PID 2628 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 09:44:28,775 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 09:44:29,369 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 09:44:29,570 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 191 ms. Found 1 JPA repository interface.
+2024-01-01 09:44:30,087 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 09:44:30,170 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-01 09:44:30,211 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-01-01 09:44:30,576 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 09:44:30,612 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-01-01 09:44:30,925 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3869a6e5
+2024-01-01 09:44:30,928 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-01-01 09:44:32,081 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.kaamDekho.entity.EmployeeEntity (class must be instantiated by Interceptor)
+2024-01-01 09:44:32,287 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 09:44:32,333 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:44:32,856 INFO o.s.b.StartupInfoLogger [main] Started EmployeeRepositoryTests in 4.836 seconds (process running for 6.017)
+2024-01-01 09:44:33,708 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:44:33,710 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-01-01 09:44:33,718 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-01-01 09:45:59,632 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeRepositoryTests using Java 20.0.1 with PID 12588 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 09:45:59,638 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 09:46:00,463 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 09:46:00,692 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 217 ms. Found 1 JPA repository interface.
+2024-01-01 09:46:01,366 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 09:46:01,463 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-01 09:46:01,519 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-01-01 09:46:01,994 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 09:46:02,033 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-01-01 09:46:02,464 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4cb00fa5
+2024-01-01 09:46:02,470 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-01-01 09:46:03,831 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.kaamDekho.entity.EmployeeEntity (class must be instantiated by Interceptor)
+2024-01-01 09:46:04,061 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 09:46:04,113 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:46:04,579 INFO o.s.b.StartupInfoLogger [main] Started EmployeeRepositoryTests in 5.869 seconds (process running for 9.564)
+2024-01-01 09:46:05,527 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:46:05,529 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-01-01 09:46:05,538 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-01-01 09:48:46,020 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeRepositoryTests using Java 20.0.1 with PID 19476 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 09:48:46,023 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 09:48:46,817 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 09:48:47,008 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 180 ms. Found 1 JPA repository interface.
+2024-01-01 09:48:47,533 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 09:48:47,614 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-01 09:48:47,655 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-01-01 09:48:48,042 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 09:48:48,083 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-01-01 09:48:48,377 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@53ea380b
+2024-01-01 09:48:48,381 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-01-01 09:48:49,501 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.kaamDekho.entity.EmployeeEntity (class must be instantiated by Interceptor)
+2024-01-01 09:48:49,682 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 09:48:49,731 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:48:50,251 INFO o.s.b.StartupInfoLogger [main] Started EmployeeRepositoryTests in 4.979 seconds (process running for 6.164)
+2024-01-01 09:48:50,993 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:48:50,995 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-01-01 09:48:51,000 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-01-01 09:54:47,431 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeRepositoryTests using Java 20.0.1 with PID 11128 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 09:54:47,434 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 09:54:47,957 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 09:54:48,148 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 181 ms. Found 1 JPA repository interface.
+2024-01-01 09:54:48,665 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 09:54:48,748 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-01 09:54:48,784 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-01-01 09:54:49,182 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 09:54:49,219 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-01-01 09:54:49,496 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@125f16b2
+2024-01-01 09:54:49,499 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-01-01 09:54:50,679 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.kaamDekho.entity.EmployeeEntity (class must be instantiated by Interceptor)
+2024-01-01 09:54:50,896 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 09:54:50,981 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:54:51,536 INFO o.s.b.StartupInfoLogger [main] Started EmployeeRepositoryTests in 4.818 seconds (process running for 6.025)
+2024-01-01 09:54:52,280 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:54:52,282 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-01-01 09:54:52,290 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-01-01 09:55:28,864 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeRepositoryTests using Java 20.0.1 with PID 19924 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 09:55:28,868 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 09:55:29,532 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 09:55:29,755 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 213 ms. Found 1 JPA repository interface.
+2024-01-01 09:55:30,386 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 09:55:30,480 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-01 09:55:30,538 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-01-01 09:55:30,979 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 09:55:31,019 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-01-01 09:55:31,338 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@22ae905f
+2024-01-01 09:55:31,341 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-01-01 09:55:32,651 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.kaamDekho.entity.EmployeeEntity (class must be instantiated by Interceptor)
+2024-01-01 09:55:32,865 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 09:55:32,925 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:55:33,504 INFO o.s.b.StartupInfoLogger [main] Started EmployeeRepositoryTests in 5.47 seconds (process running for 6.917)
+2024-01-01 09:55:34,477 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:55:34,482 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-01-01 09:55:34,491 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-01-01 09:55:58,389 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeRepositoryTests using Java 20.0.1 with PID 19364 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 09:55:58,394 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 09:55:58,998 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 09:55:59,203 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 192 ms. Found 1 JPA repository interface.
+2024-01-01 09:55:59,699 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 09:55:59,770 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-01 09:55:59,810 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-01-01 09:56:00,190 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 09:56:00,238 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-01-01 09:56:00,597 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3869a6e5
+2024-01-01 09:56:00,599 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-01-01 09:56:01,721 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.kaamDekho.entity.EmployeeEntity (class must be instantiated by Interceptor)
+2024-01-01 09:56:01,898 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 09:56:01,949 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:56:02,432 INFO o.s.b.StartupInfoLogger [main] Started EmployeeRepositoryTests in 4.907 seconds (process running for 6.068)
+2024-01-01 09:56:03,138 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:56:03,139 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-01-01 09:56:03,146 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-01-01 09:56:44,363 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeRepositoryTests using Java 20.0.1 with PID 16276 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 09:56:44,372 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 09:56:44,995 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 09:56:45,188 INFO o.s.d.r.c.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 184 ms. Found 1 JPA repository interface.
+2024-01-01 09:56:45,730 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 09:56:45,806 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-01 09:56:45,845 INFO o.h.c.i.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+2024-01-01 09:56:46,215 INFO o.s.o.j.p.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 09:56:46,260 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2024-01-01 09:56:46,594 INFO c.z.h.p.HikariPool [main] HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@578c3fd9
+2024-01-01 09:56:46,597 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-01-01 09:56:47,947 INFO o.h.m.i.EntityInstantiatorPojoStandard [main] HHH000182: No default (no-argument) constructor for class: com.kaamDekho.entity.EmployeeEntity (class must be instantiated by Interceptor)
+2024-01-01 09:56:48,147 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 09:56:48,210 INFO o.s.o.j.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:56:48,729 INFO o.s.b.StartupInfoLogger [main] Started EmployeeRepositoryTests in 5.15 seconds (process running for 6.347)
+2024-01-01 09:56:49,543 INFO o.s.o.j.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 09:56:49,545 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-01-01 09:56:49,551 INFO c.z.h.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2024-01-01 10:38:38,495 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeControllerTest using Java 20.0.1 with PID 9752 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 10:38:38,515 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 10:38:42,961 INFO o.s.m.w.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2024-01-01 10:38:42,962 INFO o.s.w.s.FrameworkServlet [main] Initializing Servlet ''
+2024-01-01 10:38:42,970 INFO o.s.w.s.FrameworkServlet [main] Completed initialization in 3 ms
+2024-01-01 10:38:43,644 INFO o.s.b.StartupInfoLogger [main] Started EmployeeControllerTest in 6.885 seconds (process running for 9.446)
+2024-01-01 10:38:44,010 INFO c.k.c.j.EmployeeControllerImpl [main] REQUEST RECEIVED FOR SAVE EMPLOYEE
+2024-01-01 10:38:44,011 INFO c.k.c.j.EmployeeControllerImpl [main] INSIDE CONTROLLER LAYER
+2024-01-01 10:43:23,797 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeControllerTest using Java 20.0.1 with PID 17804 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 10:43:23,801 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 10:43:26,883 INFO o.s.m.w.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2024-01-01 10:43:26,884 INFO o.s.w.s.FrameworkServlet [main] Initializing Servlet ''
+2024-01-01 10:43:26,888 INFO o.s.w.s.FrameworkServlet [main] Completed initialization in 2 ms
+2024-01-01 10:43:27,096 INFO o.s.b.StartupInfoLogger [main] Started EmployeeControllerTest in 4.046 seconds (process running for 5.459)
+2024-01-01 10:43:27,362 INFO c.k.c.j.EmployeeControllerImpl [main] REQUEST RECEIVED FOR SAVE EMPLOYEE
+2024-01-01 10:43:27,362 INFO c.k.c.j.EmployeeControllerImpl [main] INSIDE CONTROLLER LAYER
+2024-01-01 10:46:30,849 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeControllerTest using Java 20.0.1 with PID 10072 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 10:46:30,852 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 10:46:33,763 INFO o.s.m.w.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2024-01-01 10:46:33,764 INFO o.s.w.s.FrameworkServlet [main] Initializing Servlet ''
+2024-01-01 10:46:33,767 INFO o.s.w.s.FrameworkServlet [main] Completed initialization in 2 ms
+2024-01-01 10:46:33,942 INFO o.s.b.StartupInfoLogger [main] Started EmployeeControllerTest in 3.785 seconds (process running for 5.211)
+2024-01-01 10:46:34,166 INFO c.k.c.j.EmployeeControllerImpl [main] REQUEST RECEIVED FOR SAVE EMPLOYEE
+2024-01-01 10:46:34,166 INFO c.k.c.j.EmployeeControllerImpl [main] INSIDE CONTROLLER LAYER
+2024-01-01 11:01:43,154 INFO o.s.b.StartupInfoLogger [main] Starting EmployeeControllerTest using Java 20.0.1 with PID 4772 (started by sagar in C:\Users\sagar\OneDrive\Desktop\kaam-dekho)
+2024-01-01 11:01:43,157 INFO o.s.b.SpringApplication [main] The following 1 profile is active: "test"
+2024-01-01 11:01:46,246 INFO o.s.m.w.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2024-01-01 11:01:46,247 INFO o.s.w.s.FrameworkServlet [main] Initializing Servlet ''
+2024-01-01 11:01:46,251 INFO o.s.w.s.FrameworkServlet [main] Completed initialization in 2 ms
+2024-01-01 11:01:46,461 INFO o.s.b.StartupInfoLogger [main] Started EmployeeControllerTest in 4.05 seconds (process running for 5.544)
+2024-01-01 11:01:46,749 INFO c.k.c.j.EmployeeControllerImpl [main] REQUEST RECEIVED FOR SAVE EMPLOYEE
+2024-01-01 11:01:46,749 INFO c.k.c.j.EmployeeControllerImpl [main] INSIDE CONTROLLER LAYER

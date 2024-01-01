@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: kaam-dekho-job-service
+
+  profiles:
+    active:
+      - test
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/employees
+    username: postgres
+    password: sp
+    driver-class-name: org.postgresql.Driver
+server:
+  port: 8080
